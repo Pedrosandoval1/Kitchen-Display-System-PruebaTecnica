@@ -1,5 +1,5 @@
 # Kitchen-Display-System
-Paso 1
+## Paso 1
 - npm install
-Paso 2
+## Paso 1
 - npm run dev
